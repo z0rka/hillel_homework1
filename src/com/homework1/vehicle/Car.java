@@ -1,6 +1,7 @@
 package com.homework1.vehicle;
 
 public class Car {
+    public Car(){};
     private void startElectricity(){
         System.out.println("Electricity started");
     }
