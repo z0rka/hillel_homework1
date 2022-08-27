@@ -1,5 +1,3 @@
-package com.homework1;
-
 import com.homework1.company.Employee;
 import com.homework1.vehicle.Car;
 
